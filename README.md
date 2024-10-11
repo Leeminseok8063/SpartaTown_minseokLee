@@ -1,4 +1,4 @@
-# SpartaTown_minseokLee
+# IMFORMATION
 
 //INFO//
 인원 : 이민석(17조)
